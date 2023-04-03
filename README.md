@@ -1,6 +1,7 @@
 # Lite Websites
 A list of lightweight versions of websites without bloat
 
+You can add website to this list in [Discussions](https://github.com/p3nguin-kun/lite-websites/discussions) (please select Add website category)
 
 
 
