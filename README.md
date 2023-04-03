@@ -26,4 +26,7 @@ You can add website to this list in [Discussions](https://github.com/p3nguin-kun
 
 # News
 - [CNN Lite](https://lite.cnn.com/) - Lite version of CNN
+
+# Other
+- [Twitch Mobile Web](https://m.twitch.tv) - Mobile version of twitch.tv
 - 
